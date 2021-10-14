@@ -775,7 +775,7 @@
     <message>
         <location filename="../novelwriter/tools/build.py" line="1002"/>
         <source>Failed to write {0} file. {1}</source>
-        <translation>No se pudo escribir el archivo {0}. {1}</translation>
+        <translation>Hubo un fallo al escribir el archivo {0}. {1}</translation>
     </message>
 </context>
 <context>
@@ -955,117 +955,120 @@
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="330"/>
         <source>The document you are trying to open is too big. The document size is {0} MB. The maximum size allowed is {1} MB.</source>
-        <translation type="unfinished"></translation>
+        <translation>El documento que intentas abrir es demasiado grande. El tamaño del documento es de {0} MB. El tamaño máximo permitido es de {1} MB.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="399"/>
         <source>Opened Document: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>Se Abrió el Documento: {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="424"/>
         <source>The text you are trying to add is too big. The text size is {0} MB. The maximum size allowed is {1} MB.</source>
-        <translation type="unfinished"></translation>
+        <translation>El texto que intentas añadir es demasiado grande. El tamaño del texto es de {0} MB. El tamaño máximo permitido es de {1} MB.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="470"/>
         <source>File Changed on Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>El Archivo Cambió en el Disco</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="470"/>
         <source>This document has been changed outside of novelWriter while it was open. Overvrite the file on disk?</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Typo in original string: &quot;Overvrite&quot;</translatorcomment>
+        <translation>Este documento ha cambiado por fuera de novelWriter mientras estaba abierto. ¿Sobreescribir en el disco?</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="481"/>
         <source>Could not save document.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puedo guardar el documento.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="504"/>
         <source>Saved Document: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento Guardado: {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="716"/>
         <source>Spell checking requires the package PyEnchant. It does not appear to be installed.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>La negación modifica al verbo haber. En la traducción literal pareciera que en cambio modificase al verbo parecer, pero no es así.</translatorcomment>
+        <translation>Para la corrección ortográfica se requiere del paquete PyEnchant. Parece que no se haya instalado.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="754"/>
         <source>Spell check complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Se completó la comprobación ortográfica</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="864"/>
         <source>File Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubicación del Archivo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="864"/>
         <source>The currently open file is saved in:</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo actualmente abierto se haya guardado en:</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="1081"/>
         <source>The document has grown too big and you cannot add more text to it. The maximum size of a single novelWriter document is {0} MB.</source>
-        <translation type="unfinished"></translation>
+        <translation>El documento ha crecido demasiado y no puedes añadirle más texto. El tamaño máximo de un único documento de novelWriter es de {0} MB.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="1116"/>
         <source>Follow Tag</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Es un comando de menú contextual.</translatorcomment>
+        <translation>Continuar a Etiqueta</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="1122"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="1126"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="1130"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="1139"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar Todo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="1143"/>
         <source>Select Word</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar Palabra</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="1149"/>
         <source>Select Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar Párrafo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="1175"/>
         <source>Spelling Suggestion(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sugerencia(s) de Ortografía</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="1187"/>
         <source>No Suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation>No Hay Sugerencias</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="1193"/>
         <source>Add Word to Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir Palabra al Diccionario</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="1585"/>
         <source>Please select some text before calling replace quotes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor selecciona algo del texto antes de intentar reemplazar las comillas.</translation>
     </message>
 </context>
 <context>
@@ -1073,47 +1076,47 @@
     <message>
         <location filename="../novelwriter/dialogs/docmerge.py" line="56"/>
         <source>Merge Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Combinar Documentos</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docmerge.py" line="58"/>
         <source>Documents to Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos a Combinar</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docmerge.py" line="59"/>
         <source>Drag and drop items to change the order.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrastra y suelta los ítems para reordenarlos.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docmerge.py" line="105"/>
         <source>No source documents found. Nothing to do.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontraron documentos fuente. Nada que hacer.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docmerge.py" line="116"/>
         <source>Failed to open document file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubo un fallo al abrir el archivo del documento.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docmerge.py" line="123"/>
         <source>No source folder selected. Nothing to do.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se seleccionó una carpeta fuente. Nada que hacer.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docmerge.py" line="130"/>
         <source>Internal error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error interno.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docmerge.py" line="139"/>
         <source>Could not save document.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo guardar el documento.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docmerge.py" line="177"/>
         <source>Element selected in the project tree must be a folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>El elemento seleccionado en el árbol del proyecto ha de ser una carpeta.</translation>
     </message>
 </context>
 <context>
@@ -1121,82 +1124,82 @@
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="175"/>
         <source>Split Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Separar el Documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="62"/>
         <source>Document Headers</source>
-        <translation type="unfinished"></translation>
+        <translation>Encabezados del Documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="63"/>
         <source>Select the maximum level to split into files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegir el nivel máximo a separar en archivos.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="74"/>
         <source>Split on Header Level 1 (Title)</source>
-        <translation type="unfinished"></translation>
+        <translation>Separar en el Nivel de Encabezado 1 (Título)</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="75"/>
         <source>Split up to Header Level 2 (Chapter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Separar hasta el Nivel de Encabezado 2 (Capítulo)</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="76"/>
         <source>Split up to Header Level 3 (Scene)</source>
-        <translation type="unfinished"></translation>
+        <translation>Separar hasta el Nivel de Encabezado 3 (Escena)</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="77"/>
         <source>Split up to Header Level 4 (Section)</source>
-        <translation type="unfinished"></translation>
+        <translation>Separar hasta el Nivel de Encabezado 4 (Sección)</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="120"/>
         <source>No source document selected. Nothing to do.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha seleccionado un documento fuente. Nada que hacer.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="127"/>
         <source>Could not parse source document.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo procesar el documento fuente.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="137"/>
         <source>Failed to open document file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubo un fallo al abrir el archivo del documento.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="160"/>
         <source>No headers found. Nothing to do.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se hallaron encabezados. Nada que hacer.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="168"/>
         <source>Cannot add new folder for the document split. Maximum folder depth has been reached. Please move the file to another level in the project tree.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede añadir una nueva carpeta para hacer la separación del documento. Se alcanzó el máximo de profundidad de carpetas. Por favor, mover el archivo a otro nivel dentro del árbol del proyecto.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="175"/>
         <source>The document will be split into {0} file(s) in a new folder. The original document will remain intact.</source>
-        <translation type="unfinished"></translation>
+        <translation>El documento será separado en {0} archivo(s) en una carpeta nueva. El documento original quedará intacto.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="175"/>
         <source>Continue with the splitting process?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Continuar con el separamiento?</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="222"/>
         <source>Could not save document.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puedo guardar el documento.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/docsplit.py" line="262"/>
         <source>Element selected in the project tree must be a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>El elemento seleccionado en el árbol del proyecto ha de ser un archivo.</translation>
     </message>
 </context>
 <context>

@@ -801,32 +801,32 @@
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2755"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2903"/>
         <source>Line: {0} ({1})</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea: {0} ({1})</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2932"/>
         <source>Words: {0} ({1})</source>
-        <translation type="unfinished"></translation>
+        <translation>Palabras: {0} ({0})</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2937"/>
         <source>Document size is {0} bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>El tamaño del documento es de {0} bytes</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2949"/>
         <source>Words: {0} selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Palabras: {0} seleccionadas</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2952"/>
         <source>Character count: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>Total de caracteres: {0}</translation>
     </message>
 </context>
 <context>
@@ -834,22 +834,22 @@
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2543"/>
         <source>Edit document meta</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar metadatos del documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2554"/>
         <source>Search document</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en el documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2565"/>
         <source>Toggle Focus Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar el Modo Enfocado</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2576"/>
         <source>Close the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar el documento</translation>
     </message>
 </context>
 <context>
@@ -857,97 +857,97 @@
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2169"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2160"/>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Reemplazar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2173"/>
         <source>Case Sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Sensibilidad a Mayúsculas y Minúsculas</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2174"/>
         <source>Match case</source>
-        <translation type="unfinished"></translation>
+        <translation>Coincidir mayúsculas y minúsculas</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2181"/>
         <source>Whole Words Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo Palabras Enteras</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2182"/>
         <source>Match whole words</source>
-        <translation type="unfinished"></translation>
+        <translation>Coincidir palabras enteras</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2189"/>
         <source>RegEx Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo ExReg</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2190"/>
         <source>Search using regular expressions</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar usando expresiones regulares</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2197"/>
         <source>Loop Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar la Búsqueda</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2198"/>
         <source>Loop the search when reaching the end</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar la búsqueda desde el principio tras llegar al final</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2205"/>
         <source>Search Next File</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en el Siguiente Archivo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2206"/>
         <source>Continue searching in the next file</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar la búsqueda en el archivo siguiente</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2215"/>
         <source>Preserve Case</source>
-        <translation type="unfinished"></translation>
+        <translation>Conservar Mayúsculas y Minúsculas</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2216"/>
         <source>Preserve case on replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Al reemplazar, conservar mayúsculas y minúsculas</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2225"/>
         <source>Close Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar la Búsqueda</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2226"/>
         <source>Close the search box [{0}]</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar el recuadro de búsqueda [{0}]</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2238"/>
         <source>Show/hide the replace text box</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar/ocultar el recuadro de reemplazado de texto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2244"/>
         <source>Find in current document</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en el documento actual</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2249"/>
         <source>Find and replace in current document</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar y reemplazar en el documento actual</translation>
     </message>
 </context>
 <context>

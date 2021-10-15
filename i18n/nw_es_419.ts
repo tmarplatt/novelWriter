@@ -125,6 +125,7 @@
     <message>
         <location filename="../novelwriter/constants.py" line="141"/>
         <source>Outtakes</source>
+        <translatorcomment>There is no direct translation for this word. Where is it used?</translatorcomment>
         <translation type="unfinished">Descartados</translation>
     </message>
     <message>
@@ -445,7 +446,7 @@
     <message>
         <location filename="../novelwriter/tools/build.py" line="101"/>
         <source>Title Formats for Novel Files</source>
-        <translation>Formato de Títulos para los Archivos de la Novela</translation>
+        <translation>Formato de Títulos</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/build.py" line="105"/>
@@ -540,7 +541,7 @@
     <message>
         <location filename="../novelwriter/tools/build.py" line="251"/>
         <source>Font size</source>
-        <translation>Tamaño de tipografía</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/build.py" line="252"/>
@@ -976,7 +977,7 @@
         <location filename="../novelwriter/gui/doceditor.py" line="470"/>
         <source>This document has been changed outside of novelWriter while it was open. Overvrite the file on disk?</source>
         <translatorcomment>Typo in original string: &quot;Overvrite&quot;</translatorcomment>
-        <translation>Este documento ha cambiado por fuera de novelWriter mientras estaba abierto. ¿Sobreescribir en el disco?</translation>
+        <translation type="unfinished">Este documento ha cambiado por fuera de novelWriter mientras estaba abierto. ¿Sobreescribir en el disco?</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="481"/>
@@ -1207,42 +1208,44 @@
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="972"/>
         <source>Show/hide the references panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar/ocultar el panel de referencias</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="983"/>
         <source>Activate to freeze the content of the references panel when changing document</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Maybe this tooltip can be worded better. Right now its meaning is fairly obscure.</translatorcomment>
+        <translation>Activar para congelar el contenido del panel de referencias cuando se cambie el documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="997"/>
         <source>Show comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar comentarios</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="1009"/>
         <source>Show synopsis comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar comentarios sinopsis</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="1012"/>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>Referencias</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="1021"/>
         <source>Sticky</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>&quot;Sticky&quot; does a bad job at evidencing what this control actually does</translatorcomment>
+        <translation type="unfinished">Fijar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="1030"/>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="1039"/>
         <source>Synopsis</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinopsis</translation>
     </message>
 </context>
 <context>
@@ -1250,22 +1253,24 @@
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="765"/>
         <source>Go backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir atrás</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="776"/>
         <source>Go forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir adelante</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="787"/>
         <source>Reload the document</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>&quot;Reload this document&quot; works better in context</translatorcomment>
+        <translation type="unfinished">Volver a cargar este documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="798"/>
         <source>Close the document</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>&quot;Close this document&quot; works better in context</translatorcomment>
+        <translation type="unfinished">Cerrar este documento</translation>
     </message>
 </context>
 <context>
@@ -1273,32 +1278,32 @@
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="189"/>
         <source>An error occurred while generating the preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocurrió un error al generar la vista previa.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="251"/>
         <source>Could not find the reference for tag &apos;{0}&apos;. It either doesn&apos;t exist, or the index is out of date. The index can be updated from the Tools menu, or by pressing {1}.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo encontrar la referencia para la etiqueta &apos;{0}&apos;. O bien no existe, o el índice se ha desactualizado. Se puede actualizar el índice desde el menú Herramientas, o presionando {1}.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="433"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="442"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar Todo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="446"/>
         <source>Select Word</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar Palabra</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="452"/>
         <source>Select Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar Párrafo</translation>
     </message>
 </context>
 <context>
@@ -1306,37 +1311,38 @@
     <message>
         <location filename="../novelwriter/gui/itemdetails.py" line="71"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>&quot;Label&quot; and &quot;Tag&quot; are used ambiguously in Spanish, which makes translating those two hard</translatorcomment>
+        <translation type="unfinished">Rótulo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/itemdetails.py" line="84"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/itemdetails.py" line="96"/>
         <source>Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Clase</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/itemdetails.py" line="108"/>
         <source>Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Uso</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/itemdetails.py" line="120"/>
         <source>Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Caracteres</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/itemdetails.py" line="129"/>
         <source>Words</source>
-        <translation type="unfinished"></translation>
+        <translation>Palabras</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/itemdetails.py" line="138"/>
         <source>Paragraphs</source>
-        <translation type="unfinished"></translation>
+        <translation>Párrafos</translation>
     </message>
 </context>
 <context>

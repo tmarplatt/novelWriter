@@ -933,12 +933,12 @@
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2226"/>
         <source>Close the search box [{0}]</source>
-        <translation>Cerrar el recuadro de búsqueda [{0}]</translation>
+        <translation type="unfinished">Cerrar el cuadro de búsqueda [{0}]</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2238"/>
         <source>Show/hide the replace text box</source>
-        <translation>Mostrar/ocultar el recuadro de reemplazado de texto</translation>
+        <translation type="unfinished">Mostrar/ocultar el cuadro de reemplazado de texto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/doceditor.py" line="2244"/>
@@ -1605,7 +1605,7 @@
         <location filename="../novelwriter/gui/mainmenu.py" line="158"/>
         <source>Create new project</source>
         <translatorcomment>Suggestion of tone: Instead of only expanding the action text, menu status tips could describe the latent action, e.g.: &quot;Creates a new proyect&quot;</translatorcomment>
-        <translation type="unfinished">Crea un nuevo proyecto</translation>
+        <translation>Crea un nuevo proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="163"/>
@@ -1802,562 +1802,563 @@
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="293"/>
         <source>Create new document</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea un documento nuevo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="299"/>
         <source>Open Document</source>
-        <translation type="unfinished">Open Document</translation>
+        <translation>Abrir Documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="300"/>
         <source>Open selected document</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre un documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="306"/>
         <source>Save Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar Documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="307"/>
         <source>Save current document</source>
-        <translation type="unfinished"></translation>
+        <translation>Guarda el documento actual</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="313"/>
         <source>Close Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar Documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="314"/>
         <source>Close current document</source>
-        <translation type="unfinished"></translation>
+        <translation>Cierra el documento actual</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="323"/>
         <source>View Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsualizar Documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="324"/>
         <source>View document as HTML</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>This explanation obscures meaning more than it explains it to the user</translatorcomment>
+        <translation>Abre la vista previa HTML del documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="330"/>
         <source>Close Document View</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar Previsualización</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="331"/>
         <source>Close document view pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Cierra el panel de vista previa del documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="340"/>
         <source>Show File Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Detalles del Archivo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="341"/>
         <source>Shows a message box with the document location in the project folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra un cuadro de texto con la ubicación del documento dentro de la carpeta del proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="348"/>
         <source>Import from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar desde un Archivo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="349"/>
         <source>Import document from a text or markdown file</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa un documento a partir de un archivo de texto o markdown</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="355"/>
         <source>Merge Folder to Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Combinar Carpeta en Documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="356"/>
         <source>Merge a folder of documents to a single document</source>
-        <translation type="unfinished"></translation>
+        <translation>Combina una carpeta de documentos a un solo documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="361"/>
         <source>Split Document to Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Separar Documento a Carpeta</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="362"/>
         <source>Split a document into a folder of multiple documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Separa el documento en múltiples documentos en una carpeta</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="374"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Editar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="377"/>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="378"/>
         <source>Undo last change</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshace el último cambio</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="384"/>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Rehacer</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="385"/>
         <source>Redo last change</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuelve a hacer el último cambio</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="394"/>
         <source>Cut</source>
-        <translation type="unfinished">Cortar</translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="395"/>
         <source>Cut selected text</source>
-        <translation type="unfinished"></translation>
+        <translation>Corta el texto seleccionado</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="401"/>
         <source>Copy</source>
-        <translation type="unfinished">Copiar</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="402"/>
         <source>Copy selected text</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia el texto seleccionado</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="408"/>
         <source>Paste</source>
-        <translation type="unfinished">Pegar</translation>
+        <translation>Pegar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="409"/>
         <source>Paste text from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Pega un texto desde el portapapeles</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="418"/>
         <source>Select All</source>
-        <translation type="unfinished">Seleccionar Todo</translation>
+        <translation>Seleccionar Todo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="419"/>
         <source>Select all text in document</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona todo el texto del documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="425"/>
         <source>Select Paragraph</source>
-        <translation type="unfinished">Seleccionar Párrafo</translation>
+        <translation>Seleccionar Párrafo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="426"/>
         <source>Select all text in paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona todo el texto del párrafo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="437"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ver</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="440"/>
         <source>Focus Project Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Enfocar el Árbol del Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="441"/>
         <source>Move focus to project tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia el foco al árbol del proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="450"/>
         <source>Focus Document Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Enfocar el Editor de Documentos</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="451"/>
         <source>Move focus to left document pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia el foco al panel de documentos izquierdo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="460"/>
         <source>Focus Document Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Enfocar la Previsualización</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="461"/>
         <source>Move focus to right document pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia el foco al panel de documentos derecho</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="470"/>
         <source>Focus Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Enfocar Estructura</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="471"/>
         <source>Move focus to outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia el foco al panel de estructura del proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="483"/>
         <source>Go Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir Atrás</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="484"/>
         <source>Move backward in the view history of the right pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Retrocede un paso en el historial del panel de la derecha</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="490"/>
         <source>Go Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir Adelante</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="491"/>
         <source>Move forward in the view history of the right pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanza un paso en el historial del panel de la derecha</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="500"/>
         <source>Focus Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo Enfocado</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="501"/>
         <source>Toggles a distraction free mode, only showing text editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterna a un modo libre de distracciones, que solamente muestra el editor de texto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="511"/>
         <source>Full Screen Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo Pantalla Completa</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="512"/>
         <source>Maximises the main window</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximiza la ventana principal</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="523"/>
         <source>&amp;Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Insertar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="526"/>
         <source>Dashes</source>
-        <translation type="unfinished"></translation>
+        <translation>Rayas y Guiones</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="529"/>
         <source>Short Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Guion</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="530"/>
         <source>Insert short dash (en dash)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un guion auxiliar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="536"/>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Raya</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="537"/>
         <source>Insert long dash (em dash)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un guion largo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="543"/>
         <source>Horizontal Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra Horizontal</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="544"/>
         <source>Insert a horizontal bar (quotation dash)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta una barra horizontal (raya de diálogo)</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="550"/>
         <source>Figure Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Guion de Combinación</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="551"/>
         <source>Insert figure dash (same width as a number character)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un guion de combinación gráfica (del mismo ancho que el carácter de un número)</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="559"/>
         <source>Quote Marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Comillas</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="562"/>
         <source>Left Single Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Comilla Simple de Apertura</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="563"/>
         <source>Insert left single quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta una comilla simple de apertura</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="569"/>
         <source>Right Single Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Comilla Simple de Cierre</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="570"/>
         <source>Insert right single quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta una comilla simple de cierre</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="576"/>
         <source>Left Double Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Comilla Doble de Apertura</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="577"/>
         <source>Insert left double quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta una comilla doble de apertura</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="583"/>
         <source>Right Double Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Comilla Doble de Cierre</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="584"/>
         <source>Insert right double quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta una comilla doble de cierre</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="590"/>
         <source>Alternative Apostrophe</source>
-        <translation type="unfinished"></translation>
+        <translation>Apóstrofo Alternativo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="591"/>
         <source>Insert modifier letter single apostrophe</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un apóstrofo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="597"/>
         <source>General Punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntuación General</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="600"/>
         <source>Ellipsis</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos Suspensivos</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="601"/>
         <source>Insert ellipsis</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta puntos suspensivos</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="607"/>
         <source>Prime</source>
-        <translation type="unfinished"></translation>
+        <translation>Prima</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="608"/>
         <source>Insert a prime symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta el signo de prima</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="614"/>
         <source>Double Prime</source>
-        <translation type="unfinished"></translation>
+        <translation>Doble Prima</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="615"/>
         <source>Insert a double prime symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta el signo de doble prima</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="621"/>
         <source>White Spaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="624"/>
         <source>Non-Breaking Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio Duro</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="625"/>
         <source>Insert a non-breaking space</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un espacio de no separación (entre renglones)</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="631"/>
         <source>Thin Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio Angosto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="632"/>
         <source>Insert a thin space</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un espacio angosto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="638"/>
         <source>Thin Non-Breaking Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio Duro Angosto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="639"/>
         <source>Insert a thin non-breaking space</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un espacio de no separación (entre renglones) angosto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="645"/>
         <source>Other Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Otros Signos</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="648"/>
         <source>List Bullet</source>
-        <translation type="unfinished"></translation>
+        <translation>Viñeta de Lista</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="649"/>
         <source>Insert a list bullet</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta una viñeta de lista</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="655"/>
         <source>Hyphen Bullet</source>
-        <translation type="unfinished"></translation>
+        <translation>Viñeta Guion</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="656"/>
         <source>Insert a hyphen bullet (alternative bullet)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un guion como viñeta alternativa</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="662"/>
         <source>Flower Mark</source>
-        <translation type="unfinished"></translation>
+        <translation>Signo Flor</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="663"/>
         <source>Insert a flower mark (alternative bullet)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un signo de puntuación en flor como viñeta alternativa</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="669"/>
         <source>Per Mille</source>
-        <translation type="unfinished"></translation>
+        <translation>Por Mil</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="670"/>
         <source>Insert a per mille symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta el signo por mil</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="676"/>
         <source>Degree Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Signo de Grado</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="677"/>
         <source>Insert a degree symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta el signo de grado</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="683"/>
         <source>Minus Sign</source>
-        <translation type="unfinished"></translation>
+        <translation>Signo Menos</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="684"/>
         <source>Insert a minus sign (not a hypen or dash)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un signo menos (no un guion ni raya)</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="690"/>
         <source>Times Sign</source>
-        <translation type="unfinished"></translation>
+        <translation>Signo de Multiplicación</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="691"/>
         <source>Insert a times sign (multiplication cross)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta el signo aspa de multiplicación</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="697"/>
         <source>Division Sign</source>
-        <translation type="unfinished"></translation>
+        <translation>Signo de División</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="698"/>
         <source>Insert a division sign</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un signo óbelo de división</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="704"/>
         <source>Tags and References</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiquetas y Referencias</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="725"/>
         <source>Page Break and Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltos</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="728"/>
         <source>Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de Página</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="729"/>
         <source>Insert a page break command</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un comando de salto de página</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="734"/>
         <source>Vertical Space (Single)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto Vertical (Único)</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="735"/>
         <source>Insert a vertical space equal to one paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un espacio vertical equivalente a un párrafo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="740"/>
         <source>Vertical Space (Multi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto Vertical (Múltiple)</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="741"/>
         <source>Insert a vertical space equal to n paragraphs</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un espacio vertical equivalente a n párrafos</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="751"/>
         <source>&amp;Format</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Formato</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="754"/>

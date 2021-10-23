@@ -3108,107 +3108,108 @@
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="504"/>
         <source>Text Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo del Texto</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="514"/>
         <source>Font family</source>
-        <translation type="unfinished">Tipografía</translation>
+        <translation>Tipografía</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="514"/>
         <source>Font for the document editor and viewer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuente a usar en el editor y previsualizador de documentos.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="527"/>
         <source>Font size</source>
-        <translation type="unfinished">Tamaño</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="527"/>
         <source>Font size for the document editor and viewer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de la fuente para el editor y previsualizador de documentos.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="527"/>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="536"/>
         <source>Text Flow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flujo del Texto</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="544"/>
         <source>Maximum text width in &quot;Normal Mode&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Anchura máxima del texto en &quot;Modo Normal&quot;</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="557"/>
         <source>Horizontal margins are scaled automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los márgenes horizontales cambiarán a escala automáticamente.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="610"/>
         <source>px</source>
-        <translation type="unfinished"></translation>
+        <translation>px</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="557"/>
         <source>Maximum text width in &quot;Focus Mode&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Anchura máxima del texto en &quot;Modo Enfocado&quot;</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="567"/>
         <source>Disable maximum text width in &quot;Normal Mode&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar la anchura máxima del texto del &quot;Modo Normal&quot;</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="567"/>
         <source>Text width is defined by the margins only.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Suggestion: &quot;only by the editor/viewer borders.&quot;</translatorcomment>
+        <translation type="unfinished">La anchura del texto se definirá solamente por los márgenes.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="576"/>
         <source>Hide document footer in &quot;Focus Mode&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Esconder el pie del documento en &quot;Modo Enfocado&quot;</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="576"/>
         <source>Hide the information bar at the bottom of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esconde la barra de información al pie del documento.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="585"/>
         <source>Justify the text margins in editor and viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Justificar los márgenes del texto en el editor y el previsualizador</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="585"/>
         <source>Lay out text with straight edges in the editor and viewer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinea el texto con bordes rectos en el editor y el previsualizador.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="597"/>
         <source>Text margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Márgen del texto</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="597"/>
         <source>If maximum width is set, this becomes the minimum margin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si se establece un máximo de anchura, esto se convertirá en el márgen mínimo.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="610"/>
         <source>Tab width</source>
-        <translation type="unfinished"></translation>
+        <translation>Anchura de tabulación por tecla Tab</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="610"/>
         <source>The width of a tab key press in the editor and viewer.</source>
-        <translation type="unfinished"></translation>
+        <translation>El ancho de una tabulación producido en el editor y el previsualizador.</translation>
     </message>
 </context>
 <context>
@@ -3216,132 +3217,133 @@
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="677"/>
         <source>Spell Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobación Ortográfica</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="691"/>
         <source>None</source>
-        <translation type="unfinished">Ninguno</translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="694"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>No instalada</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="701"/>
         <source>Spell check language ({0})</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma de la comprobación ortográfica ({0})</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="701"/>
         <source>Available languages are determined by your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Su sistema determinará los idiomas disponibles.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="713"/>
         <source>Big document limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Límite según tamaño del documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="713"/>
         <source>Full spell checking is disabled above this limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al superar este límite se desactivará la comprobación ortográfica.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="713"/>
         <source>kB</source>
-        <translation type="unfinished"></translation>
+        <translation>kB</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="722"/>
         <source>Word Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Total de Palabras</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="731"/>
         <source>Word count interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo entre conteo de palabras</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="731"/>
         <source>How often the word count is updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Con qué frecuencia se actualizará el total de palabras.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="731"/>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>segundos</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="741"/>
         <source>Include project notes in total word count</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir a las notas del proyecto en el total de palabras</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="741"/>
         <source>Affects the word count shown on the status bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afectará al total de palabras que se muestra en la barra de estado.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="749"/>
         <source>Writing Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Guías de Escritura</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="754"/>
         <source>Show tabs and spaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar tabulaciones y espacios</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="754"/>
         <source>Add symbols to indicate tabs and spaces in the editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Añade símbolos en el editor que indican la presencia de tabulaciones y espacios.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="763"/>
         <source>Show line endings</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar fin de línea</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="763"/>
         <source>Add a symbol to indicate line endings in the editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Añade un símbolo en el editor que indica la presencia del final de cada línea.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="771"/>
         <source>Scroll Behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="776"/>
         <source>Scroll past end of the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazar más allá del final del documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="776"/>
         <source>Also improves trypewriter scrolling for short documents.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Typo: &quot;trypewriter&quot;</translatorcomment>
+        <translation type="unfinished">También mejorará el desplazamiento estilo &quot;máquina de escribir&quot; en documentos breves.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="785"/>
         <source>Typewriter style scrolling when you type</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento estilo &quot;máquina de escribir&quot; cuando teclea</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="785"/>
         <source>Try to keep the cursor at a fixed vertical position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intentará conservar el cursor de texto en una posición vertical fija.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="797"/>
         <source>Minimum position for Typewriter scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Posicionamiento mínimo para desplazar tipo &quot;Máquina de escribir&quot;</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="797"/>
         <source>Percentage of the editor height from the top.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un porcentaje de la altura del editor desde el tope.</translation>
     </message>
 </context>
 <context>
@@ -3349,82 +3351,82 @@
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="155"/>
         <source>Look and Feel</source>
-        <translation type="unfinished"></translation>
+        <translation>Presentación</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="168"/>
         <source>Main GUI language</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma principal de la interfaz gráfica</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="227"/>
         <source>Changing this requires restarting novelWriter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Será necesario reiniciar novelWriter tras cambiar esto.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="184"/>
         <source>Main GUI theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema principal de la interfaz gráfica</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="200"/>
         <source>Main icon theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema de íconos principal</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="214"/>
         <source>Font family</source>
-        <translation type="unfinished">Tipografía</translation>
+        <translation>Tipografía</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="227"/>
         <source>Font size</source>
-        <translation type="unfinished">Tamaño</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="227"/>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="236"/>
         <source>GUI Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de la interfaz gráfica</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="240"/>
         <source>Emphasise partition and chapter labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Enfatizar etiquetado de particiones y capítulos</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="240"/>
         <source>The novel document labels will be bold and underlined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las etiquetas de documentos de novela se mostrarán en negrita y subrayadas.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="248"/>
         <source>Show full path in document header</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar la ruta completa del documento en el encabezado</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="248"/>
         <source>Add the parent folder names to the header.</source>
-        <translation type="unfinished"></translation>
+        <translation>Añade los nombres de carpetas superiores al encabezado.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="256"/>
         <source>Hide vertical scroll bars in main windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Esconder las barras de desplazamiento vertical en las ventanas principales</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="264"/>
         <source>Scrolling available with mouse wheel and keys only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se podrá desplazar solamente por medio del ratón y de las teclas.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="264"/>
         <source>Hide horizontal scroll bars in main windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Esconder las barras de desplazamiento horizontal en las ventanas principales</translation>
     </message>
 </context>
 <context>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="es_419" sourcelanguage="en_GB">
+<!DOCTYPE TS><TS version="2.0" language="es_419" sourcelanguage="en_GB">
 <context>
     <name>Common</name>
     <message>
@@ -3449,7 +3448,7 @@
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="364"/>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">segundos</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="364"/>
@@ -3669,11 +3668,150 @@
     </message>
 </context>
 <context>
+    <name>GuiProjectDetails</name>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="57"/>
+        <source>Project Details</source>
+        <translation type="unfinished">Detalles del Proyecto</translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="72"/>
+        <source>Overview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="73"/>
+        <source>Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="76"/>
+        <source>Close</source>
+        <translation type="unfinished">Cerrar</translation>
+    </message>
+</context>
+<context>
+    <name>GuiProjectDetailsContents</name>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="298"/>
+        <source>Title</source>
+        <translation type="unfinished">Título</translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="298"/>
+        <source>Words</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="298"/>
+        <source>Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="298"/>
+        <source>Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="298"/>
+        <source>Progress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="337"/>
+        <source>Typical word count for a 5 by 8 inch book page with 11 pt font is 350.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="340"/>
+        <source>Start counting page numbers from this page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="343"/>
+        <source>Assume a new chapter or partition always start on an odd numbered page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="347"/>
+        <source>Words per page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="358"/>
+        <source>Count pages from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="369"/>
+        <source>Clear double pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="392"/>
+        <source>Table of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="428"/>
+        <source>END</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="470"/>
+        <source>Untitled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GuiProjectDetailsMain</name>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="166"/>
+        <source>Working Title: {0}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="176"/>
+        <source>By {0}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="186"/>
+        <source>Words</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="189"/>
+        <source>Chapters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="192"/>
+        <source>Scenes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="195"/>
+        <source>Revisions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="198"/>
+        <source>Editing Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../novelwriter/dialogs/projdetails.py" line="218"/>
+        <source>Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GuiProjectEditMain</name>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="174"/>
         <source>Project Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Configuración del Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="183"/>
@@ -3779,7 +3917,7 @@
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="281"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rótulo</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="281"/>
@@ -3847,7 +3985,7 @@
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="191"/>
         <source>Open Project</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abrir Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="93"/>
@@ -3892,7 +4030,7 @@
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="189"/>
         <source>All files ({0})</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Todos los archivos ({0})</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="228"/>
@@ -3910,7 +4048,7 @@
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="57"/>
         <source>Project Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Configuración del Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="74"/>
@@ -3953,7 +4091,7 @@
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="95"/>
         <source>Word count</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Total de palabras</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="96"/>
@@ -4013,7 +4151,7 @@
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="440"/>
         <source>Empty Trash</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vaciar la Papelera</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="440"/>
@@ -4076,7 +4214,7 @@
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1095"/>
         <source>View Document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Previsualizar Documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1099"/>
@@ -4096,22 +4234,22 @@
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1111"/>
         <source>Delete Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eliminar Ítem</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1115"/>
         <source>Empty Trash</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vaciar la Papelera</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1119"/>
         <source>Move Item Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desplazar Ítem hacia Arriba</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1123"/>
         <source>Move Item Down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desplazar Ítem hacia Abajo</translation>
     </message>
 </context>
 <context>
@@ -4152,7 +4290,7 @@
     <message>
         <location filename="../novelwriter/dialogs/wordlist.py" line="72"/>
         <source>Project Word List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lista de Palabras del Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/wordlist.py" line="81"/>
@@ -4180,7 +4318,7 @@
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="76"/>
         <source>Writing Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estadísticas de Redacción</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="99"/>
@@ -4378,7 +4516,7 @@
     <message>
         <location filename="../novelwriter/core/project.py" line="255"/>
         <source>New Project</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Proyecto Nuevo</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="272"/>
@@ -4780,7 +4918,7 @@
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="138"/>
         <source>Novel Title</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Título de la Novela</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="139"/>
@@ -5000,7 +5138,7 @@
     <message>
         <location filename="qtbase.py" line="73"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ayuda</translation>
     </message>
 </context>
 <context>

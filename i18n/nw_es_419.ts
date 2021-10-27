@@ -418,7 +418,7 @@
     <message>
         <location filename="../novelwriter/dialogs/about.py" line="218"/>
         <source>Author</source>
-        <translation>Autor</translation>
+        <translation>Autores</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/about.py" line="218"/>
@@ -1415,7 +1415,7 @@
     <message>
         <location filename="../novelwriter/guimain.py" line="296"/>
         <source>You are running an untested development version of novelWriter. Please be careful when working on a live project and make sure you take regular backups.</source>
-        <translation>Está ejecutando una versión de desarrollo no comprobada de novelWriter. Por favor tenga cuidado al trabajar en un proyecto activo y considere realizar copias de seguridad de sus datos frecuentemente.</translation>
+        <translation>Usted está ejecutando una versión de desarrollo sin comprobar de novelWriter. Por favor tenga cuidado al trabajar en un proyecto activo y considere realizar frecuentes copias de seguridad de sus datos.</translation>
     </message>
     <message>
         <location filename="../novelwriter/guimain.py" line="308"/>
@@ -3813,57 +3813,59 @@
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="174"/>
         <source>Project Settings</source>
-        <translation type="unfinished">Configuración del Proyecto</translation>
+        <translation>Configuración del Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="183"/>
         <source>Working title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título provisional</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="183"/>
         <source>Should be set only once.</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecerlo sólo una vez.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="193"/>
         <source>Novel title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título de la novela</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="193"/>
         <source>Change whenever you want!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Cambiarlo cuando sea!</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="203"/>
         <source>Author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Autores</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="203"/>
         <source>One name per line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un nombre por línea.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="211"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Por defecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="218"/>
         <source>Spell check language</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>This label is short on line length</translatorcomment>
+        <translation type="unfinished">Idioma a comprobar la ortografía</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="232"/>
         <source>Overrides main preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulará a la configuración principal.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="232"/>
         <source>No backup on close</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>This label is short on line length</translatorcomment>
+        <translation type="unfinished">No respaldar el proyecto al cerrar</translation>
     </message>
 </context>
 <context>
@@ -3871,37 +3873,37 @@
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="510"/>
         <source>Text Replace List for Preview and Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de Reemplazos de Texto para Previsualizar y Exportar</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="516"/>
         <source>Keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>Palabra Clave</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="516"/>
         <source>Replace With</source>
-        <translation type="unfinished"></translation>
+        <translation>Reemplazar Con</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="535"/>
         <source>Add new entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir una entrada nueva</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="539"/>
         <source>Delete selected entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar la entrada seleccionada</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="546"/>
         <source>Select item to edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar el ítem a editar</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="555"/>
         <source>Save entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar entrada</translation>
     </message>
 </context>
 <context>
@@ -3909,77 +3911,77 @@
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="259"/>
         <source>Novel File Status Levels</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveles de Estado de los Archivos de Novela</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="263"/>
         <source>Note File Importance Levels</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveles de Importancia de los Archivos de Notas</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="281"/>
         <source>Label</source>
-        <translation type="unfinished">Rótulo</translation>
+        <translation>Rótulo</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="281"/>
         <source>Usage</source>
-        <translation type="unfinished">Uso</translation>
+        <translation>Uso</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="296"/>
         <source>Add new entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir una entrada nueva</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="300"/>
         <source>Delete selected entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar la entrada seleccionada</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="309"/>
         <source>Select item to edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar el ítem a editar</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="313"/>
         <source>Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Color</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="317"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="370"/>
         <source>Select Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Escoger un Color</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="384"/>
         <source>New Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo Ítem</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="401"/>
         <source>Cannot delete a status item that is in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede eliminar un ítem de estado actualmente en uso.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="483"/>
         <source>Not in use</source>
-        <translation type="unfinished"></translation>
+        <translation>No está en uso</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="485"/>
         <source>Used once</source>
-        <translation type="unfinished"></translation>
+        <translation>Un ítem lo usa</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="487"/>
         <source>Used by {0} items</source>
-        <translation type="unfinished"></translation>
+        <translation>{0} ítems lo usan</translation>
     </message>
 </context>
 <context>
@@ -3987,62 +3989,62 @@
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="191"/>
         <source>Open Project</source>
-        <translation type="unfinished">Abrir Proyecto</translation>
+        <translation>Abrir un Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="93"/>
         <source>Working Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título Provisional</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="93"/>
         <source>Words</source>
-        <translation type="unfinished"></translation>
+        <translation>Palabras</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="93"/>
         <source>Last Opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Abierto por Última Vez</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="107"/>
         <source>Recently Opened Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyectos Abiertos Recientemente</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="108"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="133"/>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="136"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="188"/>
         <source>novelWriter Project File ({0})</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de Proyecto novelWriter ({0})</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="189"/>
         <source>All files ({0})</source>
-        <translation type="unfinished">Todos los archivos ({0})</translation>
+        <translation>Todos los archivos ({0})</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="228"/>
         <source>Remove Entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar Entrada</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projload.py" line="228"/>
         <source>Remove &apos;{0}&apos; from the recent projects list? The project files will not be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Quitar &apos;{0}&apos; de la lista de proyectos recientes? No se eliminarán los archivos del proyecto.</translation>
     </message>
 </context>
 <context>
@@ -4050,27 +4052,27 @@
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="57"/>
         <source>Project Settings</source>
-        <translation type="unfinished">Configuración del Proyecto</translation>
+        <translation>Configuración del Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="74"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="75"/>
         <source>Status</source>
-        <translation type="unfinished">Estado</translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="76"/>
         <source>Importance</source>
-        <translation type="unfinished"></translation>
+        <translation>Importancia</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="77"/>
         <source>Auto-Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Reemplazos</translation>
     </message>
 </context>
 <context>
@@ -4078,127 +4080,128 @@
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="88"/>
         <source>Project Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Árbol del Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="88"/>
         <source>Words</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Abbreviated so it fits the column heading.</translatorcomment>
+        <translation>Palab.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="94"/>
         <source>Item label</source>
-        <translation type="unfinished"></translation>
+        <translation>Rótulo del ítem</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="95"/>
         <source>Word count</source>
-        <translation type="unfinished">Total de palabras</translation>
+        <translation>Total de palabras</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="96"/>
         <source>Include in build</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir al compilar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="97"/>
         <source>Item status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado del ítem</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="193"/>
         <source>Please select a valid location in the tree to add the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor seleccione una ubicación válida en el árbol para añadir el documento.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="197"/>
         <source>Please select a valid location in the tree to add the folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor seleccione una ubicación válida en el árbol para añadir la carpeta.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="236"/>
         <source>Did not find anywhere to add the file or folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No se encontró dónde añadir el archivo o carpeta!</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="242"/>
         <source>Cannot add new files or folders to the Trash folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede añadir nuevos archivos o carpetas a la carpeta Papelera.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="251"/>
         <source>New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo Archivo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="257"/>
         <source>Cannot add new folder to this item. Maximum folder depth has been reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede añadir una nueva carpeta a este ítem. Se alcanzó el máximo de profundidad de carpetas.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="262"/>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva Carpeta</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="424"/>
         <source>There is currently no Trash folder in this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay actualmente una carpeta Papelera en este proyecto.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="435"/>
         <source>The Trash folder is already empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>La carpeta Papelera ya está vacía.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="440"/>
         <source>Empty Trash</source>
-        <translation type="unfinished">Vaciar la Papelera</translation>
+        <translation>Vaciar la Papelera</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="440"/>
         <source>Permanently delete {0} file(s) from Trash?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Eliminar {0} archivo(s) permanentemente de la Papelera?</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="536"/>
         <source>Delete File</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar Archivo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="502"/>
         <source>Permanently delete file &apos;{0}&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Eliminar el archivo &apos;{0}&apos; permanentemente?</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="523"/>
         <source>Could not delete document file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puedo eliminar el archivo de documento.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="536"/>
         <source>Move file &apos;{0}&apos; to Trash?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Mover el archivo &apos;{0}&apos; a la Papelera?</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="569"/>
         <source>Cannot delete folder. It is not empty. Recursive deletion is not supported. Please delete the content first.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede eliminar la carpeta. No está vacía. No se permite eliminar recursivamente. Por favor, primero elimine los contenidos.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="585"/>
         <source>Cannot delete root folder. It is not empty. Recursive deletion is not supported. Please delete the content first.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede eliminar la carpeta raíz. No está vacía. No se permite eliminar recursivamente. Por favor, primero elimine los contenidos.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="876"/>
         <source>The item cannot be moved to that location.</source>
-        <translation type="unfinished"></translation>
+        <translation>El ítem no puede moverse a esa ubicación.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="975"/>
         <source>There is nowhere to add item with name &apos;{0}&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay donde añadir el ítem de nombre &apos;{0}&apos;.</translation>
     </message>
 </context>
 <context>
@@ -4206,52 +4209,52 @@
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1087"/>
         <source>Edit Project Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar este Ítem del Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1091"/>
         <source>Open Document</source>
-        <translation type="unfinished">Open Document</translation>
+        <translation>Abrir Documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1095"/>
         <source>View Document</source>
-        <translation type="unfinished">Previsualizar Documento</translation>
+        <translation>Previsualizar Documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1099"/>
         <source>Toggle Included Flag</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar Compilación para el Ítem</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1103"/>
         <source>New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo Archivo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1107"/>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva Carpeta</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1111"/>
         <source>Delete Item</source>
-        <translation type="unfinished">Eliminar Ítem</translation>
+        <translation>Eliminar Ítem</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1115"/>
         <source>Empty Trash</source>
-        <translation type="unfinished">Vaciar la Papelera</translation>
+        <translation>Vaciar la Papelera</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1119"/>
         <source>Move Item Up</source>
-        <translation type="unfinished">Desplazar Ítem hacia Arriba</translation>
+        <translation>Desplazar Ítem hacia Arriba</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/projtree.py" line="1123"/>
         <source>Move Item Down</source>
-        <translation type="unfinished">Desplazar Ítem hacia Abajo</translation>
+        <translation>Desplazar Ítem hacia Abajo</translation>
     </message>
 </context>
 <context>
@@ -4259,32 +4262,32 @@
     <message>
         <location filename="../novelwriter/dialogs/updates.py" line="55"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobar Actualizaciones</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/updates.py" line="71"/>
         <source>Current Release</source>
-        <translation type="unfinished"></translation>
+        <translation>Versión Actual</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/updates.py" line="146"/>
         <source>novelWriter {0} released on {1}</source>
-        <translation type="unfinished"></translation>
+        <translation>novelWriter {0} publicado el {1}</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/updates.py" line="79"/>
         <source>Latest Release</source>
-        <translation type="unfinished"></translation>
+        <translation>Versión Más Reciente</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/updates.py" line="80"/>
         <source>Checking ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando...</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/updates.py" line="152"/>
         <source>Download: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar: {0}</translation>
     </message>
 </context>
 <context>
@@ -4292,27 +4295,27 @@
     <message>
         <location filename="../novelwriter/dialogs/wordlist.py" line="72"/>
         <source>Project Word List</source>
-        <translation type="unfinished">Lista de Palabras del Proyecto</translation>
+        <translation>Lista de Palabras del Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/wordlist.py" line="81"/>
         <source>Add new entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir una entrada nueva</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/wordlist.py" line="85"/>
         <source>Delete selected entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar la entrada seleccionada</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/wordlist.py" line="125"/>
         <source>Cannot add a blank word.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede añadir una palabra en blanco.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/wordlist.py" line="131"/>
         <source>The word &apos;{0}&apos; is already in the word list.</source>
-        <translation type="unfinished"></translation>
+        <translation>La palabra &apos;{0}&apos; ya existe en la lista de palabras.</translation>
     </message>
 </context>
 <context>
@@ -4320,152 +4323,152 @@
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="76"/>
         <source>Writing Statistics</source>
-        <translation type="unfinished">Estadísticas de Redacción</translation>
+        <translation>Estadísticas de Redacción</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="99"/>
         <source>Session Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio de la Sesión</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="99"/>
         <source>Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Duración</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="99"/>
         <source>Idle</source>
-        <translation type="unfinished"></translation>
+        <translation>Inactividad</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="99"/>
         <source>Words</source>
-        <translation type="unfinished"></translation>
+        <translation>Palabras</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="99"/>
         <source>Histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Histograma</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="135"/>
         <source>Sum Totals</source>
-        <translation type="unfinished"></translation>
+        <translation>Totales Agregados</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="163"/>
         <source>Total Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo Total:</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="164"/>
         <source>Idle Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de Inactividad:</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="165"/>
         <source>Filtered Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo con Filtros:</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="166"/>
         <source>Novel Word Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Total de Palabras de Novela:</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="167"/>
         <source>Notes Word Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Total de Palabras de Notas:</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="168"/>
         <source>Total Word Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Total de Palabras:</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="189"/>
         <source>Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtros</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="229"/>
         <source>Count novel files</source>
-        <translation type="unfinished"></translation>
+        <translation>Contar archivos de novela</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="230"/>
         <source>Count note files</source>
-        <translation type="unfinished"></translation>
+        <translation>Contar archivos de notas</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="231"/>
         <source>Hide zero word count</source>
-        <translation type="unfinished"></translation>
+        <translation>No mostrar totales en cero</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="232"/>
         <source>Hide negative word count</source>
-        <translation type="unfinished"></translation>
+        <translation>No mostrar totales negativos</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="233"/>
         <source>Group entries by day</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrupar entradas por día</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="234"/>
         <source>Show idle time</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar tiempo de inactividad</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="255"/>
         <source>Word count cap for the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Límite de total de palabras para el histograma</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="265"/>
         <source>Save As</source>
-        <translation type="unfinished">Guardar Como</translation>
+        <translation>Guardar Como</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="271"/>
         <source>JSON Data File (.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de Datos JSON (.json)</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="275"/>
         <source>CSV Data File (.csv)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de Datos CSV (.csv)</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="357"/>
         <source>JSON Data File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de Datos JSON</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="360"/>
         <source>CSV Data File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de Datos CSV</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="372"/>
         <source>Save Data As</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar Datos Como</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="415"/>
         <source>{0} file successfully written to:</source>
-        <translation type="unfinished">El archivo {0} se ha guardado con éxito en:</translation>
+        <translation>El archivo {0} se ha guardado con éxito en:</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="419"/>
         <source>Failed to write {0} file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubo un fallo al escribir el archivo {0}.</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/writingstats.py" line="486"/>
         <source>Failed to read session log file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubo un fallo al leer el archivo de registro.</translation>
     </message>
 </context>
 <context>

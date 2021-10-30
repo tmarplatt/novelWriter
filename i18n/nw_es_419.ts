@@ -115,7 +115,7 @@
     <message>
         <location filename="../novelwriter/constants.py" line="139"/>
         <source>Entity</source>
-        <translation>Entidad</translation>
+        <translation type="unfinished">Entidades</translation>
     </message>
     <message>
         <location filename="../novelwriter/constants.py" line="182"/>
@@ -4476,317 +4476,324 @@
     <message>
         <location filename="../novelwriter/core/project.py" line="126"/>
         <source>Duplicate root item detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha detectado un ítem raíz duplicado.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="170"/>
         <source>Trash</source>
-        <translation type="unfinished">Papelera</translation>
+        <translation>Papelera</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="224"/>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="220"/>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="221"/>
         <source>Draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrador</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="222"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminado</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="225"/>
         <source>Minor</source>
-        <translation type="unfinished"></translation>
+        <translation>Menor</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="226"/>
         <source>Major</source>
-        <translation type="unfinished"></translation>
+        <translation>Mayor</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="227"/>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Principal</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="255"/>
         <source>New Project</source>
-        <translation type="unfinished">Proyecto Nuevo</translation>
+        <translation>Proyecto Nuevo</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="272"/>
         <source>By</source>
-        <translation type="unfinished"></translation>
+        <translation>Por</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="302"/>
         <source>Novel</source>
-        <translation type="unfinished">Novela</translation>
+        <translation>Novela</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="279"/>
         <source>Plot</source>
-        <translation type="unfinished">Argumento</translation>
+        <translation>Argumento</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="280"/>
         <source>Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Personajes</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="281"/>
         <source>World</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundo</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="308"/>
         <source>Title Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Título de la Página</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="291"/>
         <source>New Chapter</source>
-        <translation type="unfinished"></translation>
+        <translation>Capítulo Nuevo</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="294"/>
         <source>New Scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Escena Nueva</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="322"/>
         <source>Chapter {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>Capítulo {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="345"/>
         <source>Scene {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>Escena {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="368"/>
         <source>File not found: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontró el archivo: {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="432"/>
         <source>Failed to parse project xml.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubo un fallo al procesar el xml del proyecto.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="426"/>
         <source>Attempting to open backup project file instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>En su lugar, se intentará abrir la copia de seguridad del proyecto.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="446"/>
         <source>Unknown</source>
-        <translation type="unfinished">Desconocido</translation>
+        <translation>Desconocido</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="455"/>
         <source>Project file does not appear to be a novelWriterXML file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aparentemente el archivo del proyecto no es un archivo novelWriterXML.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="477"/>
         <source>Unknown or unsupported novelWriter project file format. The project cannot be opened by this version of novelWriter. The file was saved with novelWriter version {0}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de archivo de proyecto novelWriter desconocido, o no soportado. Esta versión de novelWriter no puede abrir el proyecto. El archivo se guardó con la versión {0} de novelWriter.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="486"/>
         <source>File Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versión de Archivo</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="486"/>
         <source>The file format of your project is about to be updated. If you proceed, this project can no longer be opened by an older version of novelWriter. Continue?</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Suggestion: &quot;If you proceed, older versions of novelWriter will no longer be able to open this project.&quot;</translatorcomment>
+        <translation type="unfinished">El formato de archivo de su proyecto está por actualizarse. De continuar, niguna versión anterior de novelWriter podrá abrir este proyecto. ¿Continuar?</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="499"/>
         <source>The format of your project will now be updated. You may also have to make a few minor changes to your title page and unnumbered chapters. Please check the &apos;Project Format Changes &gt; File Format 1.3&apos; section of the documentation for more information. It is available from the Help menu.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Until a translated version of the documentation is available, it is best to keep the reference in English, otherwise the user will lack the ability to access it even (and particularly) if they don&apos;t speak the language.</translatorcomment>
+        <translation type="unfinished">Se actualizará el formato de su proyecto. Es posible que deba hacer leves cambios a los títulos de página y a los capítulos sin numerar. Para más información, por favor verifique la sección &apos;Project Format Changes &gt; File Format 1.3&apos; de la documentación (en idioma inglés). Está disponible a través del menú de Ayuda.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="512"/>
         <source>Version Conflict</source>
-        <translation type="unfinished"></translation>
+        <translation>Conflicto de Versiones</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="512"/>
         <source>This project was saved by a newer version of novelWriter, version {0}. This is version {1}. If you continue to open the project, some attributes and settings may not be preserved, but the overall project should be fine. Continue opening the project?</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Suggestion: &quot;Current version is {1}.&quot;</translatorcomment>
+        <translation>Este proyecto se ha guardado en una versión nueva de novelWriter, la versión {0}. Ésta es la versión {1}. Si procede a abrir el proyecto, algunos atributos y opciones no serán preservadas, pero en general el proyecto no presentará problemas. ¿Continuar abriendo el proyecto?</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="613"/>
         <source>Opened Project: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>Se Abrió el Proyecto: {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="634"/>
         <source>Project path not set, cannot save project.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se estableció la ruta del proyecto, no se puede guardar el proyecto.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="712"/>
         <source>Failed to save project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubo un fallo al guardar el proyecto.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="733"/>
         <source>Saved Project: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyecto Guardado: {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="786"/>
         <source>Backing up project ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Respaldando el proyecto ...</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="789"/>
         <source>Cannot backup project because no backup path is set. Please set a valid backup location in Tools &gt; Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Suggestion: &quot;Tools &gt; Preferences &gt; Proyects tab&quot;</translatorcomment>
+        <translation type="unfinished">No se puede crear una copia de seguridad porque no hay una ruta para el respaldo. Por favor escoja una ubicación válida en Herramientas &gt; Preferencias.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="796"/>
         <source>Cannot backup project because no project name is set. Please set a Working Title in Project &gt; Project Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede crear una copia de seguridad porque no se estableció el nombre del proyecto. Por favor escoja un Título provisional en Proyecto &gt; Configuración del Proyecto.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="803"/>
         <source>Cannot backup project because the backup path does not exist. Please set a valid backup location in Tools &gt; Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Suggestion: &quot;Tools &gt; Preferences &gt; Proyects tab&quot;</translatorcomment>
+        <translation type="unfinished">No se puede crear una copia de seguridad porque la ruta para el respaldo no existe. Por favor escoja una ubicación válida en Herramientas &gt; Preferencias.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="816"/>
         <source>Could not create backup folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo crear la carpeta de respaldo.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="822"/>
         <source>Cannot backup project because the backup path is within the project folder to be backed up. Please choose a different backup path in Tools &gt; Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Suggestion: &quot;Tools &gt; Preferences &gt; Proyects tab&quot;</translatorcomment>
+        <translation type="unfinished">No se puede crear una copia de seguridad porque la ruta para el respaldo se encuentra dentro de la carpeta del proyecto a respaldar. Por favor escoja una ubicación de respaldo distinta en Herramientas &gt; Preferencias.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="829"/>
         <source>Backup from {0}</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Is &quot;Backup&quot; here  a verb or noun?</translatorcomment>
+        <translation type="unfinished">Respaldar desde {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="838"/>
         <source>Backup archive file written to: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo de respaldo se ha escrito en: {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="843"/>
         <source>Could not write backup archive.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puedo escribir el archivo de respaldo.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="848"/>
         <source>Project backed up to &apos;{0}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha respaldado el proyecto a &apos;{0}&apos;</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="898"/>
         <source>Failed to create a new example project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubo un fallo al crear un nuevo proyecto de ejemplo.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="903"/>
         <source>Failed to create a new example project. Could not find the necessary files. They seem to be missing from this installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubo un fallo al crear un nuevo proyecto de ejemplo. No se pudo encontrar los archivos necesarios. Aparentemente le faltan a esta instalación.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="937"/>
         <source>Could not create new project folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo crear la carpeta del proyecto nuevo.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="944"/>
         <source>New project folder is not empty. Each project requires a dedicated project folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>La carpeta del proyecto nuevo no está vacía. Cada proyecto requiere de una carpeta de proyecto dedicada.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="994"/>
         <source>You must set a valid backup path in Preferences to use the automatic project backup feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>Debe establecer una ruta válida de respaldo en las Preferencias para poder usar la característica de respaldado automático de datos.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="1001"/>
         <source>You must set a valid project name in Project Settings to use the automatic project backup feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>Debe establecer un nombre válido del proyecto en la Configuración del Proyecto para poder usar la característica de respaldado automático de datos.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="1135"/>
         <source>and</source>
-        <translation type="unfinished"></translation>
+        <translation>y</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="1331"/>
         <source>Could not create folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo crear la carpeta.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="1390"/>
         <source>Found {0} orphaned file(s) in project folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se encontraron {0} archivo(s) huérfano(s) en la carpeta del proyecto.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="1400"/>
         <source>Recovered</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurado</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="1414"/>
         <source>[{0}] {1}</source>
-        <translation type="unfinished"></translation>
+        <translation>[{0}] {1}</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="1419"/>
         <source>Recovered File {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>Se Restauró el Archivo {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="1446"/>
         <source>One or more orphaned files could not be added back into the project. Make sure at least a Novel root folder exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo añadir uno o más archivos huérfanos de vuelta al proyecto. Asegúrese de que exista al menos una carpeta raíz de Novela.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="1505"/>
         <source>Not a folder: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>No es una carpeta: {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="1527"/>
         <source>Could not move: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo mover: {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="1550"/>
         <source>Could not delete: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo eliminar: {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="1562"/>
         <source>Could not make folder: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo crear la carpeta: {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="1573"/>
         <source>Could not move item {0} to {1}.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo mover el ítem {0} a {1}.</translation>
     </message>
 </context>
 <context>
@@ -4794,42 +4801,43 @@
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="297"/>
         <source>Custom Project Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones Personalizadas de Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="298"/>
         <source>Select which additional root folders to make, and how to populate the Novel folder. If you don&apos;t want to add chapters or scenes, set the values to 0. You can add scenes without chapters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escoja qué carpetas raíz han de crearse, y cómo ha de poblarse la carpeta Novela. Si no desea añadir capítulos o escenas, establezca su valor a 0. Se permite añadir escenas sin capítulos.</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="308"/>
         <source>Additional Root Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpetas Raíz Adicionales</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="327"/>
         <source>{0} folder</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>{0} inicia una oración en el original.</translatorcomment>
+        <translation type="unfinished">Carpeta de {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="357"/>
         <source>Populate Novel Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Poblar Carpeta Novela</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="372"/>
         <source>Add chapters</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir capítulos</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="373"/>
         <source>Scenes (per chapter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Escenas (por capítulo)</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="374"/>
         <source>Add chapter folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir carpetas de capítulos</translation>
     </message>
 </context>
 <context>
@@ -4837,27 +4845,27 @@
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="416"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha Finalizado</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="417"/>
         <source>All done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todo listo.</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="417"/>
         <source>Press &apos;{0}&apos; to create the new project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Presione &apos;{0}&apos; para crear el proyecto nuevo.</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="417"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Listo</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="417"/>
         <source>Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizar</translation>
     </message>
 </context>
 <context>
@@ -4865,22 +4873,22 @@
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="217"/>
         <source>Select Project Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Escoger la Carpeta del Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="170"/>
         <source>Select a location to store the project. A new project folder will be created in the selected location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione una ubicación para guardar el proyecto. Se creará una carpeta de proyecto en la ubicación seleccionada.</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="182"/>
         <source>Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Requerido</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="189"/>
         <source>Project Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta del Proyecto</translation>
     </message>
 </context>
 <context>
@@ -4888,47 +4896,47 @@
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="99"/>
         <source>Create New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear un Nuevo Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="100"/>
         <source>Provide at least a working title. The working title should not be change beyond this point as it is used by the application for generating file names for for instance backups. The other fields are optional and can be changed at any time in Project Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Proporcione al menos un título provisional. El título provisional no ha de cambiarse a partir de ahora, pues la aplicación lo usará para generar nombres de archivo de, por ejemplo, nuevos respaldos. Los otros campos son opcionales y pueden cambiarse en cualquier momento en la Configuración del Proyecto.</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="108"/>
         <source>Side image by {0}, {1}</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilustración por {0}, {1}</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="124"/>
         <source>Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Requerido</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="129"/>
         <source>Optional</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcional</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="134"/>
         <source>Optional. One name per line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcional. Un nombre por línea.</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="137"/>
         <source>Working Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título Provisional</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="138"/>
         <source>Novel Title</source>
-        <translation type="unfinished">Título de la Novela</translation>
+        <translation>Título de la Novela</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="139"/>
         <source>Author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Autores</translation>
     </message>
 </context>
 <context>
@@ -4936,27 +4944,28 @@
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="241"/>
         <source>Populate Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Poblar el Proyecto</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="242"/>
         <source>Choose how to pre-fill the project. Either with a minimal set of starter items, an example project explaining and showing many of the features, or show further custom options on the next page.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Suggestion: &quot;many of the available features&quot;</translatorcomment>
+        <translation type="unfinished">Escoja como pre-rellenar el proyecto. Puede ser con un conjunto básico de ítems iniciales, con un proyecto ejemplificador que explica y destaca muchas de las características disponibles, o mostrar más opciones personalizadas en la página siguiente.</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="252"/>
         <source>Fill the project with a minimal set of items</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellenar el proyecto con un mínimo conjunto de ítems</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="253"/>
         <source>Fill the project with example files</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellenar el proyecto con ejemplos de archivo</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="254"/>
         <source>Show detailed options for filling the project</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar opciones en detalle para rellenar el proyecto</translation>
     </message>
 </context>
 <context>
@@ -4977,7 +4986,7 @@
     <message>
         <location filename="qtbase.py" line="24"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Guardar</translation>
     </message>
     <message>
         <location filename="qtbase.py" line="25"/>
@@ -5005,7 +5014,7 @@
     <message>
         <location filename="qtbase.py" line="41"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Guardar</translation>
     </message>
     <message>
         <location filename="qtbase.py" line="42"/>
@@ -5151,17 +5160,17 @@
     <message>
         <location filename="../novelwriter/core/tokenizer.py" line="150"/>
         <source>Synopsis</source>
-        <translation type="unfinished">Sinopsis</translation>
+        <translation>Sinopsis</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/tokenizer.py" line="303"/>
         <source>Document &apos;{0}&apos; is too big ({1} MB). Skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>El documento &apos;{0}&apos; es demasiado grande ({1} MB). Omitiéndolo.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/tokenizer.py" line="306"/>
         <source>ERROR</source>
-        <translation type="unfinished"></translation>
+        <translation>ERROR</translation>
     </message>
 </context>
 </TS>

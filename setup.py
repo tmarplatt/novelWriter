@@ -30,6 +30,7 @@ import shutil
 import datetime
 import subprocess
 import email.utils
+from xml.etree import ElementTree
 
 OS_NONE   = 0
 OS_LINUX  = 1
@@ -379,6 +380,38 @@ def buildQtI18nTS(sysArgs):
     print("Updating Language Files:")
     print("")
 
+    # HACK: Work around pylupdate5 stripping translatorcomment nodes from .ts files
+    print("Looking up Translator Comments...")
+    tsComments = {}
+    for aTS in tsList:
+        tsComments[aTS] = {}
+        tsTree = ElementTree.ElementTree(file=aTS)
+
+        context = ''
+        commentCount = 0
+        for contextNode in tsTree.getroot().iter(tag='context'):
+            context = contextNode.find('name').text
+            tsComments[aTS][context] = []
+
+            for messageNode in contextNode.iter(tag='message'):
+                commentNode = messageNode.find('translatorcomment')
+                if commentNode is not None:
+                    tsComments[aTS][context].append({
+                        'source': messageNode.find('source').text,
+                        'comment': commentNode.text
+                    })
+                    commentCount += 1
+
+            if len(tsComments[aTS][context]) == 0:
+                del(tsComments[aTS][context])
+
+        if len(tsComments[aTS]) == 0:
+            del(tsComments[aTS])
+        else:
+            print(commentCount, "translator comments have been found in file", aTS)
+
+    print("")
+
     try:
         subprocess.call(["pylupdate5", "-verbose", "-noobsolete", *srcList, "-ts", *tsList])
     except Exception as e:
@@ -388,6 +421,60 @@ def buildQtI18nTS(sysArgs):
         sys.exit(1)
 
     print("")
+
+    # HACK: Restore comments as long as their respective original strings remain intact
+    for aTS in tsComments.keys():
+        print("Re-inserting Translator Comments")
+        print("")
+        tsTree = ElementTree.ElementTree(file=aTS)
+
+        restored = 0
+        for context in tsComments[aTS].keys():
+            for comment in tsComments[aTS][context]:
+                # XPath query to match a message node by its source text, under the given context
+                lookUp = tsTree.findall(
+                    './/*[name="' + context + '"]/message/[source="'
+                    + comment['source'].replace('"', '\"') + '"]'
+                )
+                if len(lookUp) == 1:
+                    # Create the translatorcomment node
+                    tc = ElementTree.Element('translatorcomment')
+                    tc.text = comment['comment']
+                    tc.tail = '\n\t\t'
+                    # Insert it into the message node after the source node
+                    lookUp[0].insert(2, tc)
+                    restored += 1
+                else:
+                    print("Original source text changed:", comment['source'])
+                    print("Dropping related comment:", comment['comment'])
+                    print("")
+
+        newFile = aTS + '.temp'
+        tsTree.write(newFile)
+        del(tsTree)
+        try:
+            with open(newFile, 'r') as temporary:
+                tsData = temporary.read()
+            temporary.close()
+            with open(aTS, 'w') as original:
+                original.write(
+                    "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n"
+                    "<!DOCTYPE TS>\n"
+                    + tsData
+                )
+            original.close()
+            os.remove(newFile)
+        except Exception as e:
+            print("Failed to write translation file")
+            print("")
+            print(str(e))
+            sys.exit(1)
+
+        print("Restored", restored, "comments to file", aTS)
+
+    print("")
+
+    print("All done.")
 
     return
 

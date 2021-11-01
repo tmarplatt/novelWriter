@@ -115,7 +115,8 @@
     <message>
         <location filename="../novelwriter/constants.py" line="139"/>
         <source>Entity</source>
-        <translation type="unfinished">Entidades</translation>
+        <translatorcomment>Plural should work best here</translatorcomment>
+        <translation>Entidades</translation>
     </message>
     <message>
         <location filename="../novelwriter/constants.py" line="182"/>
@@ -125,8 +126,7 @@
     <message>
         <location filename="../novelwriter/constants.py" line="141"/>
         <source>Outtakes</source>
-        <translatorcomment>There is no direct translation for this word. Where is it used?</translatorcomment>
-        <translation type="unfinished">Descartados</translation>
+        <translation>Material Descartado</translation>
     </message>
     <message>
         <location filename="../novelwriter/constants.py" line="142"/>
@@ -1213,8 +1213,7 @@
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="983"/>
         <source>Activate to freeze the content of the references panel when changing document</source>
-        <translatorcomment>Maybe this tooltip can be worded better. Right now its meaning is fairly obscure.</translatorcomment>
-        <translation type="unfinished">Active para congelar el contenido del panel de referencias cuando cambie de documento</translation>
+        <translation>Active para congelar el contenido del panel de referencias cuando cambie de documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="997"/>
@@ -1234,8 +1233,7 @@
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="1021"/>
         <source>Sticky</source>
-        <translatorcomment>&quot;Sticky&quot; does a bad job at evidencing what this control specifically does</translatorcomment>
-        <translation type="unfinished">Fijar</translation>
+        <translation>Fijar</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="1030"/>
@@ -1263,14 +1261,12 @@
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="787"/>
         <source>Reload the document</source>
-        <translatorcomment>Nitpick: &quot;Reload this document&quot;</translatorcomment>
-        <translation type="unfinished">Volver a cargar este documento</translation>
+        <translation>Volver a cargar este documento</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/docviewer.py" line="798"/>
         <source>Close the document</source>
-        <translatorcomment>Nitpick: &quot;Close this document&quot;</translatorcomment>
-        <translation type="unfinished">Cerrar este documento</translation>
+        <translation>Cerrar este documento</translation>
     </message>
 </context>
 <context>
@@ -1312,7 +1308,7 @@
         <location filename="../novelwriter/gui/itemdetails.py" line="71"/>
         <source>Label</source>
         <translatorcomment>&quot;Label&quot; and &quot;Tag&quot; are used ambiguously in Spanish, which makes their translation especially hard</translatorcomment>
-        <translation type="unfinished">Rótulo</translation>
+        <translation>Rótulo</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/itemdetails.py" line="84"/>
@@ -1370,8 +1366,8 @@
     <message>
         <location filename="../novelwriter/dialogs/itemeditor.py" line="137"/>
         <source>Layout</source>
-        <translatorcomment>Mantener la consistencia de &quot;layout&quot; a &quot;esquema&quot; a lo largo de la localización.</translatorcomment>
-        <translation type="unfinished">Esquema</translation>
+        <translatorcomment>Nota: Mantener la consistencia de &quot;layout&quot; a &quot;esquema&quot; a lo largo de la localización.</translatorcomment>
+        <translation>Esquema</translation>
     </message>
 </context>
 <context>
@@ -1480,8 +1476,7 @@
     <message>
         <location filename="../novelwriter/guimain.py" line="493"/>
         <source>Note: If the program or the computer previously crashed, the lock can safely be overridden. If, however, another instance of novelWriter has the project open, overriding the lock may corrupt the project, and is not recommended.</source>
-        <translatorcomment>Suggestion: &quot;However, it is not recommended if the project is opened in another instance of novelWriter, where overriding the lock may corrupt the proyect.&quot;</translatorcomment>
-        <translation type="unfinished">Nota: Si el programa o la computadora dejaron de funcionar, se puede quitar el bloqueo con toda seguridad. Si en cambio existe otra instancia de novelWriter que haya abierto el proyecto, éste podrá entrar en corrupción, y por ello no se recomienda.</translation>
+        <translation>Nota: Si el programa o la computadora dejaron de funcionar, se puede quitar el bloqueo con toda seguridad. Si en cambio existe otra instancia de novelWriter que haya abierto el proyecto, éste podrá entrar en corrupción, y por ello no se recomienda.</translation>
     </message>
     <message>
         <location filename="../novelwriter/guimain.py" line="544"/>
@@ -1706,8 +1701,7 @@
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="214"/>
         <source>Outtakes Root</source>
-        <translatorcomment>Ver Constant &gt; Outtakes</translatorcomment>
-        <translation type="unfinished">Raíz para Descartes</translation>
+        <translation>Raíz para Material Descartado</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="222"/>
@@ -2418,8 +2412,7 @@
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="796"/>
         <source>Change the block format to Header 1</source>
-        <translatorcomment>Block as in text block? Perhaps be more explicit</translatorcomment>
-        <translation type="unfinished">Cambia el formato del bloque a Encabezado 1</translation>
+        <translation>Cambia el formato del bloque de texto a Encabezado 1</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/mainmenu.py" line="802"/>
@@ -2850,8 +2843,8 @@
     <message>
         <location filename="../novelwriter/gui/noveltree.py" line="66"/>
         <source>Words</source>
-        <translatorcomment>Abbreviation because of column space</translatorcomment>
-        <translation type="unfinished">Palab.</translation>
+        <translatorcomment>Abbreviation because of (lack of) column space</translatorcomment>
+        <translation>Palab.</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/noveltree.py" line="66"/>
@@ -2929,14 +2922,12 @@
     <message>
         <location filename="../novelwriter/gui/outlinedetails.py" line="168"/>
         <source>Title Details</source>
-        <translatorcomment>Where is this used?</translatorcomment>
-        <translation type="unfinished">Detalles del Título</translation>
+        <translation>Detalles del Título</translation>
     </message>
     <message>
         <location filename="../novelwriter/gui/outlinedetails.py" line="193"/>
         <source>Reference Tags</source>
-        <translatorcomment>Where is this used?</translatorcomment>
-        <translation type="unfinished">Etiquetas de Referencia</translation>
+        <translation>Etiquetado</translation>
     </message>
 </context>
 <context>
@@ -3169,8 +3160,7 @@
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="567"/>
         <source>Text width is defined by the margins only.</source>
-        <translatorcomment>Suggestion: &quot;only by the editor/viewer borders.&quot;</translatorcomment>
-        <translation type="unfinished">La anchura del texto se definirá solamente por los márgenes.</translation>
+        <translation>La anchura del texto se definirá solamente por los márgenes.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="576"/>
@@ -3323,8 +3313,7 @@
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="776"/>
         <source>Also improves trypewriter scrolling for short documents.</source>
-        <translatorcomment>Typo: &quot;trypewriter&quot;</translatorcomment>
-        <translation type="unfinished">También mejorará el desplazamiento estilo &quot;máquina de escribir&quot; en documentos breves.</translation>
+        <translation>También mejorará el desplazamiento estilo &quot;máquina de escribir&quot; en documentos breves.</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/preferences.py" line="785"/>
@@ -3854,7 +3843,7 @@
         <location filename="../novelwriter/dialogs/projsettings.py" line="218"/>
         <source>Spell check language</source>
         <translatorcomment>This label is short on line length</translatorcomment>
-        <translation type="unfinished">Idioma a comprobar la ortografía</translation>
+        <translation>Idioma a comprobar la ortografía</translation>
     </message>
     <message>
         <location filename="../novelwriter/dialogs/projsettings.py" line="232"/>
@@ -3865,7 +3854,7 @@
         <location filename="../novelwriter/dialogs/projsettings.py" line="232"/>
         <source>No backup on close</source>
         <translatorcomment>This label is short on line length</translatorcomment>
-        <translation type="unfinished">No respaldar el proyecto al cerrar</translation>
+        <translation>No respaldar el proyecto al cerrar</translation>
     </message>
 </context>
 <context>
@@ -4611,14 +4600,13 @@
     <message>
         <location filename="../novelwriter/core/project.py" line="486"/>
         <source>The file format of your project is about to be updated. If you proceed, this project can no longer be opened by an older version of novelWriter. Continue?</source>
-        <translatorcomment>Suggestion: &quot;If you proceed, older versions of novelWriter will no longer be able to open this project.&quot;</translatorcomment>
-        <translation type="unfinished">El formato de archivo de su proyecto está por actualizarse. De continuar, niguna versión anterior de novelWriter podrá abrir este proyecto. ¿Continuar?</translation>
+        <translation>El formato de archivo de su proyecto está por actualizarse. De continuar, niguna versión anterior de novelWriter podrá abrir este proyecto. ¿Continuar?</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="499"/>
         <source>The format of your project will now be updated. You may also have to make a few minor changes to your title page and unnumbered chapters. Please check the &apos;Project Format Changes &gt; File Format 1.3&apos; section of the documentation for more information. It is available from the Help menu.</source>
         <translatorcomment>Until a translated version of the documentation is available, it is best to keep the reference in English, otherwise the user will lack the ability to access it even (and particularly) if they don&apos;t speak the language.</translatorcomment>
-        <translation type="unfinished">Se actualizará el formato de su proyecto. Es posible que deba hacer leves cambios a los títulos de página y a los capítulos sin numerar. Para más información, por favor verifique la sección &apos;Project Format Changes &gt; File Format 1.3&apos; de la documentación (en idioma inglés). Está disponible a través del menú de Ayuda.</translation>
+        <translation>Se actualizará el formato de su proyecto. Es posible que deba hacer leves cambios a los títulos de página y a los capítulos sin numerar. Para más información, por favor verifique la sección &apos;Project Format Changes &gt; File Format 1.3&apos; de la documentación (en idioma inglés). Está disponible a través del menú de Ayuda.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="512"/>
@@ -4659,8 +4647,7 @@
     <message>
         <location filename="../novelwriter/core/project.py" line="789"/>
         <source>Cannot backup project because no backup path is set. Please set a valid backup location in Tools &gt; Preferences.</source>
-        <translatorcomment>Suggestion: &quot;Tools &gt; Preferences &gt; Proyects tab&quot;</translatorcomment>
-        <translation type="unfinished">No se puede crear una copia de seguridad porque no hay una ruta para el respaldo. Por favor escoja una ubicación válida en Herramientas &gt; Preferencias.</translation>
+        <translation>No se puede crear una copia de seguridad porque no hay una ruta para el respaldo. Por favor escoja una ubicación válida en Herramientas &gt; Preferencias.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="796"/>
@@ -4670,8 +4657,7 @@
     <message>
         <location filename="../novelwriter/core/project.py" line="803"/>
         <source>Cannot backup project because the backup path does not exist. Please set a valid backup location in Tools &gt; Preferences.</source>
-        <translatorcomment>Suggestion: &quot;Tools &gt; Preferences &gt; Proyects tab&quot;</translatorcomment>
-        <translation type="unfinished">No se puede crear una copia de seguridad porque la ruta para el respaldo no existe. Por favor escoja una ubicación válida en Herramientas &gt; Preferencias.</translation>
+        <translation>No se puede crear una copia de seguridad porque la ruta para el respaldo no existe. Por favor escoja una ubicación válida en Herramientas &gt; Preferencias.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="816"/>
@@ -4681,13 +4667,12 @@
     <message>
         <location filename="../novelwriter/core/project.py" line="822"/>
         <source>Cannot backup project because the backup path is within the project folder to be backed up. Please choose a different backup path in Tools &gt; Preferences.</source>
-        <translatorcomment>Suggestion: &quot;Tools &gt; Preferences &gt; Proyects tab&quot;</translatorcomment>
-        <translation type="unfinished">No se puede crear una copia de seguridad porque la ruta para el respaldo se encuentra dentro de la carpeta del proyecto a respaldar. Por favor escoja una ubicación de respaldo distinta en Herramientas &gt; Preferencias.</translation>
+        <translation>No se puede crear una copia de seguridad porque la ruta para el respaldo se encuentra dentro de la carpeta del proyecto a respaldar. Por favor escoja una ubicación de respaldo distinta en Herramientas &gt; Preferencias.</translation>
     </message>
     <message>
         <location filename="../novelwriter/core/project.py" line="829"/>
         <source>Backup from {0}</source>
-        <translatorcomment>Is &quot;Backup&quot; here  a verb or noun?</translatorcomment>
+        <translatorcomment>Is &quot;Backup&quot; here a verb or noun?</translatorcomment>
         <translation type="unfinished">Respaldar desde {0}</translation>
     </message>
     <message>
@@ -4817,7 +4802,7 @@
         <location filename="../novelwriter/tools/projwizard.py" line="327"/>
         <source>{0} folder</source>
         <translatorcomment>{0} inicia una oración en el original.</translatorcomment>
-        <translation type="unfinished">Carpeta de {0}</translation>
+        <translation>Carpeta de {0}</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="357"/>
@@ -4901,7 +4886,7 @@
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="100"/>
         <source>Provide at least a working title. The working title should not be change beyond this point as it is used by the application for generating file names for for instance backups. The other fields are optional and can be changed at any time in Project Settings.</source>
-        <translation type="unfinished">Proporcione al menos un título provisional. El título provisional no ha de cambiarse a partir de ahora, pues la aplicación lo usará para generar nombres de archivo de, por ejemplo, nuevos respaldos. Los otros campos son opcionales y pueden cambiarse en cualquier momento en la Configuración del Proyecto.</translation>
+        <translation>Proporcione al menos un título provisional. El título provisional no ha de cambiarse a partir de ahora, pues la aplicación lo usará para generar nombres de archivo de, por ejemplo, nuevos respaldos. Los otros campos son opcionales y pueden cambiarse en cualquier momento en la Configuración del Proyecto.</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="108"/>
@@ -4949,8 +4934,7 @@
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="242"/>
         <source>Choose how to pre-fill the project. Either with a minimal set of starter items, an example project explaining and showing many of the features, or show further custom options on the next page.</source>
-        <translatorcomment>Suggestion: &quot;many of the available features&quot;</translatorcomment>
-        <translation type="unfinished">Escoja como pre-rellenar el proyecto. Puede ser con un conjunto básico de ítems iniciales, con un proyecto ejemplificador que explica y destaca muchas de las características disponibles, o mostrar más opciones personalizadas en la página siguiente.</translation>
+        <translation>Escoja como pre-rellenar el proyecto. Puede ser con un conjunto básico de ítems iniciales, con un proyecto ejemplificador que explica y destaca muchas de las características disponibles, o mostrar más opciones personalizadas en la página siguiente.</translation>
     </message>
     <message>
         <location filename="../novelwriter/tools/projwizard.py" line="252"/>
